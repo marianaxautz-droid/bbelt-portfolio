@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#080808"/>
+  <!-- faixa preta (belt) com ponta vermelha -->
+  <rect x="6" y="27" width="52" height="10" rx="2" fill="#1A1A1A"/>
+  <rect x="6" y="27" width="20" height="10" rx="2" fill="#E41C19"/>
+  <!-- nó -->
+  <rect x="22" y="22" width="12" height="20" rx="2" fill="#E41C19"/>
+  <rect x="25" y="25" width="6" height="14" rx="1" fill="#A81210"/>
+</svg>

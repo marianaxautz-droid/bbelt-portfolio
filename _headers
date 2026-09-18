@@ -1,0 +1,11 @@
+/BRAND/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts-deferred.css
+  Cache-Control: public, max-age=86400, must-revalidate
+
+/i18n-en.js
+  Cache-Control: public, max-age=86400, must-revalidate
